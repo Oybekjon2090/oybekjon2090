@@ -17,7 +17,7 @@
 
 
 ## ⚡ Technologies
-
+![Image](https://img.shields.io/badge/AutoCad-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
