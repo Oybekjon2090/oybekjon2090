@@ -11,7 +11,7 @@
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>  
 
-- :computer:  I’m Flutter developer
+- :computer:  I’m Flutter developer and Architect.
 - ![GitHub followers](https://img.shields.io/github/followers/Oybekjon2090?logo=GitHub&style=for-the-badge)
 
 
