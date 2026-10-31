@@ -11,7 +11,17 @@
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>  
 
-- :computer:  I’m Flutter developer and Architect.
+- :computer:🏗️ Architect | AutoCAD Designer
+
+I create architectural drawings, 2D plans, technical designs, and construction projects.
+
+🛠️ Skills & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/AutoCAD-E51019?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>   I’m Flutter developer and Architect.
 - ![GitHub followers](https://img.shields.io/github/followers/Oybekjon2090?logo=GitHub&style=for-the-badge)
 
 
