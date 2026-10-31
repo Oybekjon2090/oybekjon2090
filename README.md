@@ -1,4 +1,4 @@
-<h1 align="center">Flutter Developer</h1>
+<h1 align="center">💻 Flutter Developer | 🏗️ Architect</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
@@ -11,7 +11,7 @@
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>  
 
-- :computer:💻 Flutter Developer | 🏗️ Architect
+- :computer: Flutter Developer | 🏗️ Architect
 
 I combine software development with architectural design.
 
